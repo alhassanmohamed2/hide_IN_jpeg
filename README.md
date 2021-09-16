@@ -3,5 +3,5 @@
 ## install cryptocode
 pip install cryptocode
 
-## Website to generate encraptions keys  
+## Website to generate Encryption keys  
 https://www.allkeysgenerator.com/Random/Security-Encryption-Key-Generator.aspx
